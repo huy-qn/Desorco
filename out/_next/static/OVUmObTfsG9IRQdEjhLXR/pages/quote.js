@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{634:function(n,o,e){__NEXT_REGISTER_PAGE("/quote",function(){return n.exports=e(153),{page:n.exports.default}})}},[[634,1,0]]]);
